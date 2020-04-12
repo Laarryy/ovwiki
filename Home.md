@@ -1,4 +1,4 @@
-![OV2Logo](https://i.imgur.com/gzdZPSO.png)
+![OV2Logo](https://i.imgur.com/tWvD2Jt.png)
 
 # **OmegaVision**
 

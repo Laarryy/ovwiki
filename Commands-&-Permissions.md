@@ -1,7 +1,7 @@
 ![OV2Logo](https://i.imgur.com/tWvD2Jt.png)
 # **OmegaVision**
 
-Below you will find a list of all the commands and all the permissions that OmegaVision has to offer. There will be a discription for each of the commands and permissions so you're able to tell what each of them do.
+**Below you will find a list of all the commands and all the permissions that OmegaVision has to offer:**
 
 ***
 ## **Commands**

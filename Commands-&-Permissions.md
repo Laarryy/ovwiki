@@ -6,13 +6,6 @@ Below you will find a list of all the commands and all the permissions that Omeg
 ***
 ## **Commands**
 
-|     Command | Description |  Permission |
-| ----------- | ----------- | ----------- |
-| /omegavision  | Tells you what version you're on |
-| /nightvision toggle | Allows you to toggle nightvision for yourself. | omegavision.toggle |
-| /omegavision toggle <playername> | Allows you to toggle nightvision for other players. | omegavision.toggle.others
-| /omegavision reload | Allows the user to reload all the files. | omegavision.reload |
-| /nightvision list | Get a list of all users how have nightvision | omegavision.list |
 | Command | Description | Permission | Aliases |
 | ----------- | ----------- | ----------- | ----------- |
 | /omegavision  | Gives you a simple list of the commands and what they do. | omegavision.admin | /ov, /ovision |
